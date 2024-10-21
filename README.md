@@ -51,8 +51,10 @@ The Google Cloud Digital Certification (CDL) program consists of six modules cov
 **External Resources:**
 
 * **Additional study materials:** https://storage.googleapis.com/cloud-training/C-CDLILT-B/v2.0/C-CDLILT-B_CDL_Study_Guide_v2.pdf
-* **Practice exams:** [Link to practice exams]
+* **Practice exams:** https://docs.google.com/forms/d/e/1FAIpQLSedAmf77MGS7FGEaylFzY51KtBd7kkIZJIMDsV5zSRSmpKIOA/viewform
 {https://www.cloudskillsboost.google/paths/9}
+
+
 **Contributing:**
 
 **🙌** We welcome contributions from the community! If you have additional resources, practice questions, or suggestions, feel free to submit a pull request.
